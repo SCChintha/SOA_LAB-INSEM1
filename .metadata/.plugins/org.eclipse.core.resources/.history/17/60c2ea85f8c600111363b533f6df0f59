@@ -1,0 +1,5 @@
+package com.example.jwtvalidation.service;
+
+public class JwtService {
+
+}
